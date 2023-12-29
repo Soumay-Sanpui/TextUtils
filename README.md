@@ -23,7 +23,7 @@ Use Text Utils without installing the repository localy.
 ### Clone Repository
 ```bash
 
-git clone https://github.com/your-username/text-utils.git
+git clone https://github.com/Soumay-Sanpui/text-utils.git
 
 ```
 
